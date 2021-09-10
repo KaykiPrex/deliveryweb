@@ -1,2 +1,0 @@
-# deliveryweb
-Delivery web page
